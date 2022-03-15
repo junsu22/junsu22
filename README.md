@@ -14,15 +14,15 @@
 
 
 
-![junsuKim's github stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=blueberry&show_icons=true)
+![junsu_Kim's github stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=blueberry&show_icons=true)
 
-![junsuKim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&layout=compact&theme=blueberry)
+![junsu_Kim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&layout=compact&theme=blueberry)
 
 
 
 </div>
 <!--
-**junsu22/junsu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junsu_kim/junsu_kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
