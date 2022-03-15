@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=junsu_kim&fontSize=80)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 )
 
 
 
