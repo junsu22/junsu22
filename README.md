@@ -1,5 +1,12 @@
 
-# ***Hi there!** :turtle:* #
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=junsu_kim&fontSize=80)
+
+
+
+
+
+### **Hi there!** :turtle: ###
+
  <div align="center">
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
