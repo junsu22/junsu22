@@ -18,7 +18,7 @@
 
 
 
-[![opgc](https://api.opgc.me/githubs/users/junsu22/tag/?theme=dracula)](https://opgc.me/#/users/junsu22)
+<a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a>
 
 ![junsu_Kim's github stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=blueberry&show_icons=true)
 
