@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA"//></a> &nbsp 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"//></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp
+
+
+
 
 
 
