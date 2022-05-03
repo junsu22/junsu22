@@ -7,7 +7,7 @@
 
  <div align="center">
 
-<h3 align="center"><b> Tech Stack </b></h3>
+<!-- <h3 align="center"><b> Tech Stack </b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/NodeJs-369506?style=flat&logo=Node.JS&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-035CBB?style=flat&logo=TypeScript&logoColor=black"//></a> &nbsp
-
+ -->
 
 
 
