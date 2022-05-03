@@ -3,19 +3,21 @@
 
 
 
-## **Hi there!** :turtle: ##
+## **Hi there!** ##
 
  <div align="center">
 
-<!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b> Tech Stack </b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3"//></a> &nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&locoColor=black"//></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA"//></a> &nbsp 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"//></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp
+<img src="https://img.shields.io/badge/NodeJs-369506?style=flat&logo=Node.JS&logoColor=black"//></a> &nbsp
+<img src="https://img.shields.io/badge/TypeScript-035CBB?style=flat&logo=TypeScript&logoColor=black"//></a> &nbsp
 
 
 
