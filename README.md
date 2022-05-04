@@ -19,14 +19,10 @@
 <img src="https://img.shields.io/badge/NodeJs-369506?style=flat&logo=Node.JS&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-035CBB?style=flat&logo=TypeScript&logoColor=black"//></a> &nbsp
 
+<!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> --> 
 
-
-<!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> -->
-
-![junsu_Kim's github stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=blueberry&show_icons=true)
-
-![junsu_Kim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&layout=compact&theme=blueberry)
-
+![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br>
+![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout=compact)
 
 
 </div>
