@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 )
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 ) -->
 
 
 
