@@ -1,5 +1,5 @@
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 ) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 )
 
 
 
@@ -21,7 +21,7 @@
 
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> --> 
 
-<!-- ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br> -->
+![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br>
 ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout=compact)
 
 
