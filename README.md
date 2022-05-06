@@ -9,6 +9,7 @@
 
 <h3 align="center"><b> Tech Stack </b></h3>
 </br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&locoColor=black"//></a> &nbsp 
@@ -21,10 +22,9 @@
 
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> --> 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)</br>
 ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br>
 ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout=compact)
-
-
 </div>
 <!--
 **junsu_kim/junsu_kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
