@@ -15,11 +15,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&locoColor=black"//></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA"//></a> &nbsp 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA"//></a></br> &nbsp 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub"//></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/NodeJs-369506?style=flat&logo=Node.JS&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-035CBB?style=flat&logo=TypeScript&logoColor=black"//></a> &nbsp
+<img src="https://img.shields.io/badge/NestJS-181717?style=flat&logo=NestJS&logoColor=E0234E"//></a> &nbsp
 
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> --> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)</br>
