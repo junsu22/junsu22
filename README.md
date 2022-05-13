@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsu22hit-counter&count_bg=%23029BFF&title_bg=%236FC2B2&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsu22hit-counter&count_bg=%23029BFF&title_bg=%236FC2B2&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 )
 
@@ -22,10 +22,10 @@
 <img src="https://img.shields.io/badge/NestJS-181717?style=flat&logo=NestJS&logoColor=E0234E"//></a> &nbsp
 
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a> --> 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)</br>
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)</br>
 <br>![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br>
 ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout=compact)
-</div>
+</div> -->
 <!--
 **junsu_kim/junsu_kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--  --> 
