@@ -11,7 +11,7 @@
 </br>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&locoColor=black"//></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA"//></a></br> &nbsp 
@@ -19,13 +19,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-035CBB?style=flat&logo=TypeScript&logoColor=black"//></a> &nbsp
 <img src="https://img.shields.io/badge/NodeJS-369506?style=flat&logo=Node.JS&logoColor=black"//></a> &nbsp
-<img src="https://img.shields.io/badge/NestJS-181717?style=flat&logo=NestJS&logoColor=E0234E"//></a></br> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffdd54"//></a> &nbsp
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"//></a> &nbsp
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"//></a></br> &nbsp
 <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=React&logoColor=%2361DAFB"//></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=Redux&logoColor=white"//></a> &nbsp
 <img src ="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF?style=flat&logo=adobe%20photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"> -->
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white">
 
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a>  -->
 
