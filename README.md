@@ -29,8 +29,8 @@
 <!-- <a href="https://opgc.me/#/users/junsu22" target="_blank"><img src="https://api.opgc.me/githubs/users/junsu22/tag/?theme=basic" /></a>  -->
 
 <!-- <br>![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu22&theme=github_dark&show_icons=true)</br> -->
-![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout)
-</div> 
+<!-- ![junsu_Kim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu22&theme=github_dark&layout)
+</div>  -->
 <!--
 **junsu_kim/junsu_kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
