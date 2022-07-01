@@ -1,10 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsu22hit-counter&count_bg=%23029BFF&title_bg=%236FC2B2&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&animation=blink&section=header&text=Junsu_Kim&fontSize=90&rotate=-20 )
-## **Hi there!** ##
  <div align="center">
 <h3 align="center"><b> Tech Stack </b></h3>
-</br>
  <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&locoColor=black"//></a> &nbsp 
