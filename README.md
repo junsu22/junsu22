@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"//></a></br> &nbsp
 <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=React&logoColor=%2361DAFB"//></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=Redux&logoColor=white"//></a> &nbsp
+<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=BootStrap&logoColor=black"/></a> &nbsp
 <img src ="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF?style=flat&logo=adobe%20photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"> 
 </div> 
