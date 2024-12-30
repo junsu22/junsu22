@@ -47,7 +47,7 @@
 ### 🔹 **Adobe Creative Tools**
 - **Adobe Photoshop**
 - **Adobe Illustrator**
-- **Adobe Premiere Pro**
+
 
 ---
 
