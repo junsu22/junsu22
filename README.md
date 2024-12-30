@@ -5,7 +5,6 @@
 ## 🧔 About Me
 - 👋 **이름**: junsu_Kim
 - 💻 **주요 스택**: SQL, Java, Unix, Network
-- 🚀 **모토**: "코드와 시스템은 강력해야 한다."
 - ⚙️ **전문 분야**: 데이터베이스 최적화, 네트워크 설계, 시스템 구축
 
 ---
@@ -30,6 +29,25 @@
 - ![Unix/Linux](https://img.shields.io/badge/-Unix/Linux-003366?logo=Linux&logoColor=white&style=flat)
 - ![Network](https://img.shields.io/badge/-Network-green?logo=Cisco&logoColor=white&style=flat)
 - ![Git](https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white&style=flat)
+- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0078D4?logo=Microsoft&logoColor=white&style=flat)
+  - **Word**: Advanced document management.
+  - **Excel**: Complex data analysis and visualization.
+  - **PowerPoint**: Dynamic and engaging presentations.
+
+- ![SSH](https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white&style=flat) **Windows OS**  
+  🎯 Skilled in Windows Shell scripting for task automation and system configuration.  
+- ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=flat) **PowerShell**  
+  ⚡ Expertise in PowerShell scripting for advanced administrative tasks and automation.  
+- ![Command Prompt](https://img.shields.io/badge/-Command%20Prompt-black?logo=WindowsTerminal&logoColor=white&style=flat) **Command Prompt,SSH**  
+  🚀 Proficient in Command Prompt for efficient command-line operations.
+
+### **Adobe**
+- ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=flat)
+  - Advanced image editing and design.
+- ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=Adobe%20Illustrator&logoColor=white&style=flat)
+  - Vector graphics and icon creation.
+- ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&style=flat)
+  - Professional video editing and production.
 
 
 ---
