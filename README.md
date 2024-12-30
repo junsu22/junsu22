@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50">  
   <b>안녕하세요! Junsu Kim입니다!</b>  
 </p>
----
 
 ## 🧔 **About Me**
 <p align="center">
