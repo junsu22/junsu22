@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50">  
   <b>안녕하세요! Junsu Kim입니다!</b>  
 </p>
@@ -83,4 +83,4 @@
 
 ---
 
-✨ **도전하고 배우며 성장하는 개발자** Junsu_Kim의 여정을 함께하세요!
+✨ **도전하고 배우며 성장하는 개발자** Junsu_Kim의 여정을 함께하세요! -->
