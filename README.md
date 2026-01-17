@@ -3,9 +3,9 @@
 <div align="center">
   
 <!--API ,  %20  -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:00F5FF&height=200&section=header&text=Hi,%20I'm%20Junsu!&fontSize=40&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:00F5FF&height=200&section=header&text=Hi,%20I'm%20Junsu!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-### "Just play. Have fun. Enjoy the game." 🎮
+### "Just play. Have fun. Enjoy the game." 
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@junsu22)
 
