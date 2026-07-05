@@ -1,6 +1,6 @@
 ## AI Engineer
 
-Building production-ready LLM Agent and RAG-based AI applications.
+Building AI applications with LLM Agents, RAG, and Prompt Engineering.
 
 ### Core Expertise
 
