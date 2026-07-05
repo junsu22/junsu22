@@ -22,3 +22,4 @@ Building AI applications with LLM Agents, RAG, and Prompt Engineering.
 ---
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@junsu22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junsu-kim-0792a63b3)
