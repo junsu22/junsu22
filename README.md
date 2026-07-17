@@ -4,7 +4,6 @@ Building AI applications with LLM Agents, RAG, and Prompt Engineering.
 
 ### Core Expertise
 
-- LLM Agent Development
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - AI Evaluation (LangSmith, RAGAS)
