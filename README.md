@@ -15,9 +15,9 @@ Building AI applications with RAG, LLM Fine-Tuning, and Prompt Engineering.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square)
-![RAGAS](https://img.shields.io/badge/RAGAS-4B5563?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-1C1C1C?style=flat-square&logo=ollama&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C5A?style=flat-square&logo=langchain&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6B46C1?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
