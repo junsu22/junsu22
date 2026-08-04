@@ -25,8 +25,15 @@ Building AI applications with RAG, LLM Fine-Tuning, and Prompt Engineering.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C5A?style=flat-square&logo=langchain&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-6B46C1?style=flat-square&logo=pytest&logoColor=white)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/junsu22)
+
 
 ---
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@junsu22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junsu-kim-0792a63b3)
+
+## Projects
+- **HanBeom** — AI assistant for foreigners living in Korea. RAG + Kakao API + 6 languages. [Live](https://hanbeom.kr)
+- **WithBuddy AI** — HR chatbot for Korean companies. Hybrid search, BM25, LangChain.
+
