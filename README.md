@@ -36,4 +36,4 @@ Building AI applications with RAG, LLM Fine-Tuning, and Prompt Engineering.
 
 ## Projects
 - **HanBeom** — AI assistant for foreigners living in Korea. RAG + Kakao API + 6 languages. [Live](https://hanbeom.kr)
-- **WithBuddy AI** — HR chatbot for Korean companies. Hybrid search, BM25, LangChain.
+- **WithBuddy AI** — HR chatbot for Korean companies. Hybrid search, BM25, LangChain. [Showcase](https://junsu22.github.io/withbuddy-showcase/withbuddy_ai_report.html)
