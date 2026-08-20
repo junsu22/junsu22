@@ -36,5 +36,5 @@ Building AI applications with RAG, LLM Fine-Tuning, and Prompt Engineering.
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@junsu22)
 
 ## Projects
-- **HanBeom** — AI assistant for foreigners living in Korea. RAG + Kakao API + 6 languages. [Live](https://hanbeom.kr) · 🏆 [#1 Project of the Day](https://smollaunchpad.com/projects/hanbeom) (Smol LaunchPad)
+- **HanBeom** — AI assistant for foreigners living in Korea. RAG + Kakao API + 6 languages. [Live](https://hanbeom.kr) · [#1 Project of the Day](https://smollaunchpad.com/projects/hanbeom)
 - **WithBuddy AI** — HR chatbot for Korean companies. Hybrid search, BM25, LangChain. [Showcase](https://junsu22.github.io/withbuddy-showcase/withbuddy_ai_report.html)
